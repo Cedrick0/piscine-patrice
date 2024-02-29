@@ -1,0 +1,12 @@
+// golang printalphabet in lowercase on a single line
+package main
+
+imp "github.com/01-edu/z01"
+
+func main() {
+	for i:= 'a'; i <= 'z'; i++ {
+		z01.PrintRune(i)
+
+	}
+	
+}
